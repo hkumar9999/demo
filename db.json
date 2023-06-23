@@ -11,7 +11,7 @@
   "profile": {
     "name": "typicode"
   },
-  "miscellaneousCharges":[
+  "miscellaneousChargeTypes":[
   {
     "chargeID": "6",
     "accountingSuperSetId": "AccId1",
