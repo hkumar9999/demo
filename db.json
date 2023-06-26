@@ -11,6 +11,11 @@
   "profile": {
     "name": "typicode"
   },
+  "basicChargeTypesList":{
+  "RTS":"RTS",
+  "CC":"CC",
+  "XYZ":"XYZ"
+},
   "miscellaneousChargesTypes":[
   {
     "chargeID": "6",
@@ -108,10 +113,6 @@
     "receivableTBD": "dgsdgs",
     "receivableLocation": "gdsg"
   }
-],
-"basicChargeTypesList":{
-  "RTS":"RTS",
-  "CC":"CC"
-  "XYZ":"XYZ"
-}
+]
+
 }
