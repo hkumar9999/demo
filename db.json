@@ -101,5 +101,20 @@
   {"RTS":"RTS",
     "CC":"CC",
     "XYZ":"XYZ"
-}
+},
+"basicChargeTypes":
+  [
+    {
+      "billingAgency":"",
+      "billingPeriod":"",
+      "chargeType":"",
+      "modifiedBy":"",
+      "modifiedTime":"",
+      "userEmail":"",
+      "memberAgency":"",
+      "occurYear":"",
+      "paymentSource":"",
+      "amount":"",
+      "chargeScheduled":"",
+      
 }
