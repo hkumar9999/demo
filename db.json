@@ -108,5 +108,9 @@
     "receivableTBD": "dgsdgs",
     "receivableLocation": "gdsg"
   }
-]
+],
+"basicChargeTypesList":
+  {"RTS":"RTS",
+    "CC":"CC",
+    "XYZ":"XYZ"
 }
