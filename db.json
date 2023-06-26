@@ -109,5 +109,8 @@
     "receivableLocation": "gdsg"
   }
 ],
-"basicChargeTypesList":[RTS,CC,XYZ]
+"basicChargeTypesList":{
+  "RTS":"RTS,
+  "CC":"CC"
+  "XYZ":"XYZ"
 }
