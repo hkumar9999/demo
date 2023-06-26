@@ -3,21 +3,21 @@
   [
     {
       "billingAgency":"Calleguas Municipal Water District",
-      "billingPeriod":"",
-      "chargeType":"",
+      "billingPeriod":"012023",
+      "chargeType":"RTS",
       "modifiedBy":"",
       "modifiedTime":"",
       "userEmail":"",
       "memberAgency":"",
       "occurYear":"",
       "paymentSource":"",
-      "amount":"",
+      "amount":"235235",
       "chargeScheduled":""
     },
         {
       "billingAgency":"City of Glendale",
-      "billingPeriod":"",
-      "chargeType":"",
+      "billingPeriod":"012023",
+      "chargeType":"CC",
       "modifiedBy":"",
       "modifiedTime":"",
       "userEmail":"",
@@ -29,8 +29,8 @@
     },
         {
       "billingAgency":"San Diego County Water Authority",
-      "billingPeriod":"",
-      "chargeType":"",
+      "billingPeriod":"012023",
+      "chargeType":"XYZ",
       "modifiedBy":"",
       "modifiedTime":"",
       "userEmail":"",
@@ -42,8 +42,8 @@
     },
         {
       "billingAgency":"City of Santa Monica",
-      "billingPeriod":"",
-      "chargeType":"",
+      "billingPeriod":"012023",
+      "chargeType":"RTS",
       "modifiedBy":"",
       "modifiedTime":"",
       "userEmail":"",
@@ -51,6 +51,19 @@
       "occurYear":"",
       "paymentSource":"",
       "amount":"",
+      "chargeScheduled":""
+    },
+        {
+      "billingAgency":"Calleguas Municipal Water District",
+      "billingPeriod":"012023",
+      "chargeType":"RTS",
+      "modifiedBy":"",
+      "modifiedTime":"",
+      "userEmail":"",
+      "memberAgency":"",
+      "occurYear":"",
+      "paymentSource":"",
+      "amount":"100",
       "chargeScheduled":""
     }
   ],   
