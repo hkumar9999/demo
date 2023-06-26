@@ -11,11 +11,7 @@
   "profile": {
     "name": "typicode"
   },
-  "basicChargeTypesList":{
-  "RTS":"RTS",
-  "CC":"CC",
-  "XYZ":"XYZ"
-},
+
   "miscellaneousChargesTypes":[
   {
     "chargeID": "6",
