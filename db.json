@@ -1,4 +1,59 @@
 {
+  "basicChargeTypes":
+  [
+    {
+      "billingAgency":"0",
+      "billingPeriod":"",
+      "chargeType":"",
+      "modifiedBy":"",
+      "modifiedTime":"",
+      "userEmail":"",
+      "memberAgency":"",
+      "occurYear":"",
+      "paymentSource":"",
+      "amount":"",
+      "chargeScheduled":""
+    },
+        {
+      "billingAgency":"1",
+      "billingPeriod":"",
+      "chargeType":"",
+      "modifiedBy":"",
+      "modifiedTime":"",
+      "userEmail":"",
+      "memberAgency":"",
+      "occurYear":"",
+      "paymentSource":"",
+      "amount":"",
+      "chargeScheduled":""
+    },
+        {
+      "billingAgency":"2",
+      "billingPeriod":"",
+      "chargeType":"",
+      "modifiedBy":"",
+      "modifiedTime":"",
+      "userEmail":"",
+      "memberAgency":"",
+      "occurYear":"",
+      "paymentSource":"",
+      "amount":"",
+      "chargeScheduled":""
+    },
+        {
+      "billingAgency":"3",
+      "billingPeriod":"",
+      "chargeType":"",
+      "modifiedBy":"",
+      "modifiedTime":"",
+      "userEmail":"",
+      "memberAgency":"",
+      "occurYear":"",
+      "paymentSource":"",
+      "amount":"",
+      "chargeScheduled":""
+    }
+  ],   
   "miscellaneousChargesTypes":[
   {
     "chargeID": "6",
@@ -101,21 +156,6 @@
   {"RTS":"RTS",
     "CC":"CC",
     "XYZ":"XYZ"
-},
-"basicChargeTypes":
-  [
-    {
-      "billingAgency":"",
-      "billingPeriod":"",
-      "chargeType":"",
-      "modifiedBy":"",
-      "modifiedTime":"",
-      "userEmail":"",
-      "memberAgency":"",
-      "occurYear":"",
-      "paymentSource":"",
-      "amount":"",
-      "chargeScheduled":"",
-    }
-  ]      
+}
+   
 }
