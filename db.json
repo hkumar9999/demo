@@ -2,7 +2,7 @@
   "basicChargeTypes":
   [
     {
-      "billingAgency":"0",
+      "billingAgency":"Calleguas Municipal Water District",
       "billingPeriod":"",
       "chargeType":"",
       "modifiedBy":"",
@@ -15,7 +15,7 @@
       "chargeScheduled":""
     },
         {
-      "billingAgency":"1",
+      "billingAgency":"City of Glendale",
       "billingPeriod":"",
       "chargeType":"",
       "modifiedBy":"",
@@ -28,7 +28,7 @@
       "chargeScheduled":""
     },
         {
-      "billingAgency":"2",
+      "billingAgency":"San Diego County Water Authority",
       "billingPeriod":"",
       "chargeType":"",
       "modifiedBy":"",
@@ -41,7 +41,7 @@
       "chargeScheduled":""
     },
         {
-      "billingAgency":"3",
+      "billingAgency":"City of Santa Monica",
       "billingPeriod":"",
       "chargeType":"",
       "modifiedBy":"",
