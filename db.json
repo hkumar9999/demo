@@ -1,4 +1,87 @@
 {
+  "flatFee":
+  [
+  {
+    "id": "2",
+    "sno": "",
+    "modifiedBy": "mwd_admin",
+    "modifiedTime": "",
+    "contractAgency": "State of California - Chiriaco Summit",
+    "flatFee": "1251",
+    "meterId": "LVP-0S",
+    "billingAgency": "Metropolitan Water District Of Southern California"
+  },
+  {
+    "id": "3",
+    "sno": "",
+    "modifiedBy": "mwd_admin",
+    "modifiedTime": "",
+    "contractAgency": "State of California - Chiriaco Summit",
+    "flatFee": "1251",
+    "meterId": "LVP-0S",
+    "billingAgency": "Metropolitan Water District Of Southern California"
+  },
+  {
+    "id": "4",
+    "sno": "",
+    "modifiedBy": "mwd_admin",
+    "modifiedTime": "6/28/2023",
+    "contractAgency": "City of Azusa - Contract Agency",
+    "flatFee": "qwfwq",
+    "meterId": "MF-1",
+    "billingAgency": "Metropolitan Water District Of Southern California"
+  },
+  {
+    "id": "5",
+    "sno": "",
+    "modifiedBy": "mwd_admin",
+    "modifiedTime": "6/28/2023",
+    "contractAgency": "City of Azusa - Contract Agency",
+    "flatFee": "32532",
+    "meterId": "MF-2",
+    "billingAgency": "Metropolitan Water District Of Southern California"
+  },
+  {
+    "id": "6",
+    "sno": "",
+    "modifiedBy": "mwd_admin",
+    "modifiedTime": "6/28/2023",
+    "contractAgency": "City of Azusa - Contract Agency",
+    "flatFee": "23532754",
+    "meterId": "LVP-0S",
+    "billingAgency": "Metropolitan Water District Of Southern California"
+  },
+  {
+    "id": "7",
+    "sno": "",
+    "modifiedBy": "mwd_admin",
+    "modifiedTime": "6/28/2023",
+    "contractAgency": "State of California - Chiriaco Summit",
+    "flatFee": "223532",
+    "meterId": "WOC-1",
+    "billingAgency": "Metropolitan Water District Of Southern California"
+  },
+  {
+    "id": "8",
+    "sno": "",
+    "modifiedBy": "mwd_admin",
+    "modifiedTime": "6/28/2023",
+    "contractAgency": "San Gabriel Basin Water Quality Authority",
+    "flatFee": "375654",
+    "meterId": "SD-02",
+    "billingAgency": "Metropolitan Water District Of Southern California"
+  },
+  {
+    "id": "9",
+    "sno": "",
+    "modifiedBy": "mwd_admin",
+    "modifiedTime": "6/28/2023",
+    "contractAgency": "Central Arizona Project",
+    "flatFee": "3434",
+    "meterId": "CENB-53",
+    "billingAgency": "Metropolitan Water District Of Southern California"
+  }
+],
   "basicCharge":
  [
  {
