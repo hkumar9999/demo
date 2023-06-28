@@ -2,7 +2,7 @@
   "basicCharge":
   [
  {
-  "id": "1",
+  "id": "4",
   "sno": "1",
   "modifiedBy": "mwd_admin",
   "modifiedTime": "6/27/2023",
@@ -21,7 +21,7 @@
   "billPeriod": "202306"
  },
  {
-  "id": "2",
+  "id": "5",
   "sno": "1",
   "modifiedBy": "mwd_admin",
   "modifiedTime": "6/27/2023",
@@ -39,7 +39,7 @@
   "baseRate": "qwags"
  },
  {
-  "id": "3",
+  "id": "6",
   "sno": "1",
   "modifiedBy": "mwd_admin",
   "modifiedTime": "6/27/2023",
