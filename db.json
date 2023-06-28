@@ -1,24 +1,23 @@
 {
   "basicCharge":
   [
- {
+{
   "id": "4",
   "sno": "1",
   "modifiedBy": "mwd_admin",
   "modifiedTime": "6/27/2023",
   "locationId": "1300002",
-  "memberAgency": "Cen547457",
-  "billingAgency": "Central Basin Municipal Water District1",
-  "occurYear": 2023,
-  "billingPeriod": "",
-  "chargeType": "CC",
+  "memberAgency": "City of Compton",
+  "occurYear": "2020",
+  "billPeriod": "202302",
+  "chargeType": "RTS",
   "paymentSource": "Credit",
-  "amount": "214124",
-  "chargeSchedule": "Monthly",
-  "peakDay": "wqqw",
-  "peakFlow": "qweqwf",
-  "baseRate": "gsadfas",
-  "billPeriod": "202306"
+  "amount": "36346",
+  "chargeSchedule": "Quarterly",
+  "billingAgency": "Metropolitan Water District Of Southern California",
+  "peakDay": "346436",
+  "peakFlow": "346346",
+  "baseRate": "436436"
  },
  {
   "id": "5",
@@ -26,36 +25,17 @@
   "modifiedBy": "mwd_admin",
   "modifiedTime": "6/27/2023",
   "locationId": "1300002",
-  "memberAgency": "City34634nk",
-  "billingAgency": "City of Burbank",
-  "occurYear": 2020,
-  "billPeriod": "202305",
+  "memberAgency": "City of Beverly Hills",
+  "occurYear": 2023,
+  "billPeriod": "202304",
   "chargeType": "CC",
   "paymentSource": "Debit",
-  "amount": "32523523",
-  "chargeSchedule": "Quarterly",
-  "peakDay": "qewgqw",
-  "peakFlow": "egweg",
-  "baseRate": "qwags"
- },
- {
-  "id": "6",
-  "sno": "1",
-  "modifiedBy": "mwd_admin",
-  "modifiedTime": "6/27/2023",
-  "locationId": "1300002",
-  "memberAgency": "City 346346lls",
-   "billingAgency": "City of Beverly Hills",
-  "occurYear": 2019,
-  "billingPeriod": "",
-  "chargeType": "CC",
-  "paymentSource": "Debit",
-  "amount": "3532523",
+  "amount": "1111",
   "chargeSchedule": "Monthly",
-  "peakDay": "",
-  "peakFlow": "",
-  "baseRate": "",
-  "billPeriod": "202301"
+  "billingAgency": "Metropolitan Water District Of Southern California",
+  "peakDay": "111",
+  "peakFlow": "111",
+  "baseRate": "111"
  }
 ],   
   "miscellaneousChargesTypes":[
