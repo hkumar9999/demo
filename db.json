@@ -15,7 +15,6 @@
   "paymentSource": "Credit",
   "amount": "214124",
   "chargeSchedule": "Monthly",
-  "billingAgency": "",
   "peakDay": "wqqw",
   "peakFlow": "qweqwf",
   "baseRate": "gsadfas",
@@ -35,7 +34,6 @@
   "paymentSource": "Debit",
   "amount": "32523523",
   "chargeSchedule": "Quarterly",
-  "billingAgency": "",
   "peakDay": "qewgqw",
   "peakFlow": "egweg",
   "baseRate": "qwags"
@@ -54,7 +52,6 @@
   "paymentSource": "Debit",
   "amount": "3532523",
   "chargeSchedule": "Monthly",
-  "billingAgency": "",
   "peakDay": "",
   "peakFlow": "",
   "baseRate": "",
