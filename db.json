@@ -1,41 +1,6 @@
 {
 	"miscellaneousTypes": [
 		{
-			"id": "7",
-			"sno": "",
-			"modifiedBy": "mwd_admin",
-			"modifiedTime": "6/29/2023",
-			"accountingSuperSetId": "",
-			"accountSetId": "cchhff",
-			"startDate": "",
-			"endDate": "",
-			"legalDocId": "",
-			"description": "",
-			"paymentSource": "",
-			"revenueFund": "",
-			"revenueOrg": "",
-			"revenueAppn": "",
-			"revenueAcct": "",
-			"revenueSubAcct": "",
-			"revenueActivity": "",
-			"revenueProject": "",
-			"revenueTask": "",
-			"revenueGrant": "",
-			"revenueTBD": "",
-			"revenueLocation": "",
-			"receivableFund": "",
-			"receivableOrg": "",
-			"receivableAppn": "",
-			"receivableAcct": "",
-			"receivableSubAcct": "",
-			"receivableActivity": "",
-			"receivableProject": "",
-			"receivableTask": "",
-			"receivableGrant": "",
-			"receivableTBD": "",
-			"receivableLocation": ""
-		},
-		{
 			"id": "8",
 			"sno": "",
 			"modifiedBy": "mwd_admin",
@@ -93,24 +58,7 @@
 			"billingAgency": "Metropolitan Water District Of Southern California"
 		}
 	],
-	"basicCharge": [{
-			"id": "6",
-			"sno": "1",
-			"modifiedBy": "mwd_admin",
-			"modifiedTime": "6/27/2023",
-			"locationId": "1300002",
-			"memberAgency": "City of Beverly Hills",
-			"occurYear": 2023,
-			"billPeriod": "202301",
-			"chargeType": "CC",
-			"paymentSource": "Debit",
-			"amount": "1000",
-			"chargeSchedule": "Quarterly",
-			"billingAgency": "Metropolitan Water District Of Southern California",
-			"peakDay": "Test1",
-			"peakFlow": "Test1",
-			"baseRate": "Test1"
-		},
+	"basicCharge": [
 		{
 			"id": "7",
 			"sno": "1",
@@ -152,6 +100,38 @@
 		"RTS": "RTS",
 		"CC": "CC",
 		"XYZ": "XYZ"
-	}
+	},
+	"miscellaneousCharges": [
+ {
+  "id": "1",
+  "sno": "",
+  "modifiedBy": "mwd_admin",
+  "modifiedTime": "6/29/2023",
+  "memberAgency": "City of Burbank",
+  "nonStandardCharges": "accountTest",
+  "billPeriod": "202305",
+  "amount": "1000",
+  "volume": "1000",
+  "rate": "1000",
+  "occurYear": "2020",
+  "meterId": "LVP-0S",
+  "comments": "new test"
+ },
+ {
+  "id": "2",
+  "sno": "",
+  "modifiedBy": "mwd_admin",
+  "modifiedTime": "6/29/2023",
+  "memberAgency": "City of Compton",
+  "nonStandardCharges": "accountTest",
+  "billPeriod": "202301",
+  "amount": "20000",
+  "volume": "20000",
+  "rate": "20000",
+  "occurYear": "2017",
+  "meterId": "MF-0A",
+  "comments": "TEST 2"
+ }
+]
 
 }
