@@ -96,11 +96,7 @@
 			"baseRate": "Test3"
 		}
 	],
-	"basicChargeTypesList": {
-		"RTS": "RTS",
-		"CC": "CC",
-		"XYZ": "XYZ"
-	},
+	"basicChargeTypesList": ["RTS","CC","XYZ"],
 	"miscellaneousCharges": [
  {
   "id": "1",
