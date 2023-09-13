@@ -72,7 +72,7 @@
 			"paymentSource": "Credit",
 			"amount": "2000",
 			"chargeSchedule": "Semi-Annually",
-			"billingAgency": "Metropolitan Water District Of Southern California",
+			"billingAgency": "City of Burbank",
 			"peakDay": "Test2",
 			"peakFlow": "Test2",
 			"baseRate": "Test2"
@@ -90,7 +90,7 @@
 			"paymentSource": "Debit",
 			"amount": "3000",
 			"chargeSchedule": "Monthly",
-			"billingAgency": "Metropolitan Water District Of Southern California",
+			"billingAgency": "Calleguas Municipal Water District",
 			"peakDay": "Test3",
 			"peakFlow": "Test3",
 			"baseRate": "Test3"
